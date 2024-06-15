@@ -1,0 +1,10 @@
+{
+  "name": "Digimon World - Starry Sky's Goodnight",
+  "description": "Digimon World - Next Order Town music during the Night.",
+  "author": "defilier119",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
